@@ -1,2 +1,2 @@
-# Calculator (Link below)
+# Calculator
 # https://samdavis112.github.io/Calculator/
